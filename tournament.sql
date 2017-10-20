@@ -1,3 +1,9 @@
+-- tournament.sql 
+-- Swiss-system tournament implemented through PostgreSQL
+-- Udacity - Full Stack Web Developer - Relational Database - Final Project
+-- Gary Miller - 10/20/2017
+-- References for my work include GitHub users victron and ericadoyle
+
 -- Table definitions for the tournament project.
 --
 -- Put your SQL 'create table' statements in this file; also 'create view'
