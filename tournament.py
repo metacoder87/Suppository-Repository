@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 #
-# tournament.py -- implementation of a Swiss-system tournament
-#
+# tournament.py -- Swiss-system tournament implemented through PostgreSQL
+# Udacity - Full Stack Web Developer - Relational Database - Final Project
+# Gary Miller - 10/20/2017
+# References for my work include GitHub users victron and ericadoyle
 
 import psycopg2
 import itertools
