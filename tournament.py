@@ -4,6 +4,7 @@
 # Udacity - Full Stack Web Developer - Relational Database - Final Project
 # Gary Miller - 10/20/2017
 # References for my work include GitHub users victron and ericadoyle
+# Creating a second branch
 
 import psycopg2
 import itertools
